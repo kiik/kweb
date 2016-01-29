@@ -2,6 +2,6 @@
   "name": "kiikweb",
   "author": "Meelik Kiik <kiik.meelik@gmail.com>",
   "license": "MIT",
-  "version": "0.0.1-rc0",
+  "version": "0.0.1-rc1",
   "description": "Non-blocking HTTP library"
 }
