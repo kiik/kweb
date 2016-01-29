@@ -1,4 +1,4 @@
-/** @file HTTPRequest.hpp
+/** @file HTTPRequest.h
  *  HTTP Request class declaration.
  *
  *  @author Meelik Kiik
@@ -9,7 +9,7 @@
 #ifndef HTTP_REQUEST_H
 #define HTTP_REQUEST_H
 
-#include "HTTP.hpp"
+#include "HTTP.h"
 
 namespace HTTP {
 

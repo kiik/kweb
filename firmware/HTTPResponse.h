@@ -1,4 +1,4 @@
-/** @file HTTPResponse.hpp
+/** @file HTTPResponse.h
  *  HTTP Response class declaration.
  *
  *  @author Meelik Kiik
@@ -9,7 +9,7 @@
 #ifndef HTTP_RESPONSE_H
 #define HTTP_RESPONSE_H
 
-#include "HTTP.hpp"
+#include "HTTP.h"
 
 namespace HTTP {
 

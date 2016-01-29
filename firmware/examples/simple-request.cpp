@@ -6,7 +6,7 @@
  *  @version 0.1
  */
 
-#include "HTTP.hpp"
+#include "kiikweb.h"
 
 uint32_t request_time = 0;
 uint32_t request_period = 10 * 1000;

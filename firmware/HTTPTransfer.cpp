@@ -6,7 +6,7 @@
  *  @version 0.1
  */
 
-#include "HTTP.hpp"
+#include "HTTP.h"
 
 namespace HTTP {
 

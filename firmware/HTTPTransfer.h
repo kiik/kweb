@@ -1,4 +1,4 @@
-/** @file HTTPTransfer.hpp
+/** @file HTTPTransfer.h
  *  The Transfer class handles communication state flow.
  *
  *  @author Meelik Kiik
@@ -9,7 +9,7 @@
 #ifndef HTTP_TRANSFER
 #define HTTP_TRANSFER
 
-#include "HTTP.hpp"
+#include "HTTP.h"
 
 namespace HTTP {
 

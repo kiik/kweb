@@ -1,4 +1,4 @@
-/** @file HTTP.hpp
+/** @file HTTP.h
  *  Provides classes for storing
  *  and parsing HTTP data.
  *
@@ -20,8 +20,6 @@
 #define HTTP_RESPONSE_SIZE_LIMIT 10000
 
 #define KWEB_VERSION "0.0.1-rc0"
-
-#define HTTP_DEBUG
 
 namespace HTTP {
 
@@ -55,8 +53,8 @@ namespace HTTP {
 
 }
 
-#include "HTTPResponse.hpp"
-#include "HTTPRequest.hpp"
-#include "HTTPTransfer.hpp"
+#include "HTTPResponse.h"
+#include "HTTPRequest.h"
+#include "HTTPTransfer.h"
 
 #endif // HTTP_H
